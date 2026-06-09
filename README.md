@@ -106,24 +106,108 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
 
 > [!TIP]
-> Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
+# 💰 SmartFinance AI
 
-### 3. Entregando o Desafio na DIO
+## 📖 Resumo do Conceito do App
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
+O SmartFinance AI é um aplicativo de organização financeira pessoal desenvolvido para ajudar usuários a controlar receitas, despesas e metas financeiras de forma simples e intuitiva. O diferencial da aplicação é a utilização de Inteligência Artificial para analisar os hábitos financeiros do usuário e fornecer sugestões personalizadas para melhorar sua saúde financeira.
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+O aplicativo permite registrar ganhos e gastos, acompanhar a evolução do saldo, criar metas de economia e visualizar relatórios financeiros por meio de gráficos e indicadores. Além disso, o assistente virtual baseado em IA oferece recomendações inteligentes para auxiliar na tomada de decisões financeiras.
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+---
 
-## 💬 Conclusão
+# 🧠 Prompt (PRD) Utilizado
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+## Visão Geral
+
+Desenvolver um aplicativo web moderno de gestão financeira pessoal com Inteligência Artificial, capaz de auxiliar usuários no controle de receitas, despesas e metas financeiras, oferecendo análises automáticas e sugestões de economia.
+
+## Objetivo
+
+Criar uma solução prática e intuitiva para o gerenciamento financeiro pessoal, permitindo que os usuários acompanhem sua situação financeira e recebam recomendações inteligentes para melhorar seus hábitos de consumo.
+
+## Público-Alvo
+
+* Estudantes
+* Trabalhadores autônomos
+* Profissionais CLT
+* Pequenos empreendedores
+* Pessoas interessadas em educação financeira
+
+## Funcionalidades Principais
+
+### Dashboard Financeiro
+
+* Exibição do saldo atual.
+* Resumo de receitas e despesas.
+* Indicadores financeiros.
+* Gráficos interativos.
+
+### Controle de Receitas
+
+* Cadastro de receitas.
+* Categorias personalizadas.
+* Histórico de movimentações.
+
+### Controle de Despesas
+
+* Cadastro de despesas.
+* Classificação por categoria.
+* Controle de gastos mensais.
+
+### Metas Financeiras
+
+* Criação de metas.
+* Acompanhamento do progresso.
+* Percentual de conclusão.
+
+### Assistente Inteligente
+
+* Análise automática dos gastos.
+* Sugestões de economia.
+* Alertas financeiros.
+* Respostas para dúvidas financeiras básicas.
+
+### Relatórios
+
+* Relatórios mensais.
+* Relatórios anuais.
+* Exportação de dados.
+
+## Design
+
+O sistema deve possuir uma interface moderna, responsiva e intuitiva, utilizando cores que transmitam organização, confiança e segurança financeira.
+
+## Tecnologias Sugeridas
+
+* React
+* Tailwind CSS
+* Node.js
+* Supabase
+* OpenAI API
+
+---
+
+# 🚀 Tecnologias Utilizadas
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
+* Supabase
+* OpenAI API
+
+---
+
+# 📚 O que Aprendi
+
+Durante este desafio, aprendi a utilizar a metodologia Vibe Coding para transformar uma ideia em um projeto estruturado através da criação de prompts detalhados. Também compreendi a importância de definir requisitos claros para orientar ferramentas de Inteligência Artificial no desenvolvimento de aplicações.
+
+Além disso, desenvolvi habilidades relacionadas à organização de projetos, documentação técnica, elaboração de requisitos de software e utilização da IA como ferramenta de apoio na criação de soluções digitais.
+
+---
+
+# 🎯 Conclusão
+
+O SmartFinance AI foi idealizado para tornar o controle financeiro mais simples, acessível e inteligente. A combinação entre organização financeira e Inteligência Artificial permite que os usuários tomem decisões mais conscientes e alcancem seus objetivos financeiros com maior eficiência.
