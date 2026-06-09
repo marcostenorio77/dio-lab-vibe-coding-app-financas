@@ -62,6 +62,9 @@ Antes de pedir para a IA "criar um app", é importante definir com clareza o que
 
 Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
 
+<img width="1361" height="593" alt="Captura de tela 2026-06-09 200218" src="https://github.com/user-attachments/assets/c212d0ac-b569-458f-9ceb-dac26b59589d" />
+
+
 ```txt
 # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
